@@ -39,7 +39,7 @@
  -
  -
 ## 6. 프로젝트 참여 인원 & Support
-- 김형후 [GitHub](https://github.com/Shaerrr)/[Blog](https://blog.naver.com/dcfjk1234)/E-mail: dcfjk1234@naver.com
+- 김형후 [GitHub](https://github.com/Shaerrr)/E-mail: dcfjk1234@naver.com
 - 강재훈 
 - 김소은
 - 김현동
