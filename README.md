@@ -23,6 +23,12 @@
   -
 ## 3. About main.ipynb
  - ### Requirements
+   - Pyhthon version 3.9.x 
+   -
+ - ### Used Python IDE
+   - [Google Colab]
+   - [JupyterLab & Notebook]
+   - [Pycharm]
  - ### Variables
  - 
 ## 4. About Raw data
