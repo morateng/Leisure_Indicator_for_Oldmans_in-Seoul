@@ -32,4 +32,11 @@
  -
  -
 ## 6. 프로젝트 참여 인원 & Support
-- Shaerr(김형*) [GitHub](https://github.com/Shaerrr)/[Blog](https://blog.naver.com/dcfjk1234)
+- 김형후 [GitHub](https://github.com/Shaerrr)/[Blog](https://blog.naver.com/dcfjk1234)/E-mail: dcfjk1234@naver.com
+- 강재훈 
+- 김소은
+- 김현동
+- 김화정
+- 임주연
+- 정우성
+  
