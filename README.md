@@ -32,3 +32,4 @@
  -
  -
 ## 6. 프로젝트 참여 인원 & Support
+- Shaerr(김형*) [GitHub](https://github.com/Shaerrr)/[Blog](https://blog.naver.com/dcfjk1234)
