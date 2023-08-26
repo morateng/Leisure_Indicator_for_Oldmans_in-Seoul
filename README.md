@@ -10,34 +10,40 @@
 
   ### 배경
   - 현 대한민국은 1970년 대비 기대수명이 대폭 늘었고, 빠른 수준의 고령화가 진행되어 노인 인구의 비율이 높은 상태입니다.
-    따라서, 노인층
-  -
+    따라서, 여가문화를 노인층에 특화하여 분석할 필요가 있다고 판단하였습니다.
+  - 국민행복도 증진은 국가적인 큰 목표이고, 여가생활과 사회연결정도가 삶의 만족도에 큰 영향을 준다는 연구 결과가 있습니다. 
+    그러나 노인의 여가문화는 현재 TV시청 등 사회적으로 고립된 여가가 주를 이루었습니다. 사회적으로 연결된 여가활동이 확산될 필요가 있다 생각하여
+    해당 분야에 집중하였습니다.  
+  - 노인층에 대한 여가 관련 지표가 설문 결과이거나, 다양한 환경적 요소를 고려하지 못한 1차원적 지표인 경우가 많았습니다.
+    여가와 관련된 다양한 환경 요소를 종합적으로 고려한 지표를 통해 자치구별 여가 수준을 한눈에 파악하고자 합니다.
   
-
-## 2. 프로젝트 활용안 및 개선점
- ### 활용안
-  -
-  -
- ### 개선점
-  -
-  -
-## 3. About main.ipynb
+## 2. About main.ipynb
  - ### Requirements
    - Pyhthon version 3.9.x 
-   -
+   - 
  - ### Used Python IDE
    - [Google Colab]
    - [JupyterLab & Notebook]
    - [Pycharm]
  - ### Variables
  - 
-## 4. About Raw data
+## 3. About Raw data
  - ### Sources
  - ### API
-   - How to get Api key?: 
+   - How to get Api key?:
+
+## 4. 프로젝트 활용안 및 개선점
+ ### 활용안
+  -
+  -
+ ### 개선점
+  -
+  -
 ## 5. 참고 (Refrences)
  -
  -
+
+ 
 ## 6. 프로젝트 참여 인원 & Support
 - 김형후 [GitHub](https://github.com/Shaerrr)/E-mail: dcfjk1234@naver.com
 - 강재훈 
