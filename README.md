@@ -19,8 +19,13 @@
   
 ## 2. About main.ipynb
  - ### Requirements
+   - Main 파일은 ipynb 확장자로, 원할한 확인을 위해서는 Jupyter Notebook 이나, Jupyter Lab 사용을 권장드립니다.
    - Pyhthon version 3.9.x 
-   - 
+   - Used Libraries
+     - Pandas
+     - Matplotlib, Seborn
+     - Numpy
+     - OS
  - ### Used Python IDE
    - [Google Colab]
    - [JupyterLab & Notebook]
