@@ -68,7 +68,7 @@
  
 ## 6. 프로젝트 참여 인원 & Support
 - 김형후 [GitHub](https://github.com/Shaerrr)/E-mail: dcfjk1234@naver.com
-- 강재훈 
+- 강재훈 [GitHub](https://github.com/morateng)/E-mail: jae991116@gmail.com
 - 김소은
 - 김현동
 - 김화정
