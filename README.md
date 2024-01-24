@@ -63,7 +63,7 @@
   - [Processing] 폴더에서 전처리 과정이 확인 가능합니다.
 
 
-## 5. 참고 (Refrences)
+## 5. 참고 (Reference)
 ![image](https://github.com/Shaerrr/Leisure_Indicator_for_Oldmans_in-Seoul/assets/116930070/08449f10-9070-4d41-8ef8-ef6e10f90394)
  
 ## 6. 프로젝트 참여 인원 & Support
